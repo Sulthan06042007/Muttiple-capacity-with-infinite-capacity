@@ -1,4 +1,4 @@
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+![image](https://github.com/Sulthan06042007/Muttiple-capacity-with-infinite-capacity/assets/144980103/8c7df4a9-411a-47e4-95db-4bd567b0dede)# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 10 seconds, serivice time of two lathe machine follow exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
@@ -18,9 +18,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![Screenshot 2024-04-24 091538](https://github.com/sulthan06042007/Muttiple-capacity-with-infinite-capacity/assets/149347632/af377ba2-f339-4095-98ac-c62b91b2227d)
+![image](https://github.com/Sulthan06042007/Muttiple-capacity-with-infinite-capacity/assets/144980103/b6f80e98-d0df-40a4-ae15-3ea022afc1ec)
+![image](https://github.com/Sulthan06042007/Muttiple-capacity-with-infinite-capacity/assets/144980103/3d014f3e-5347-4c26-91e3-9db20a27d0d9)
 
-![Screenshot 2024-04-24 091642](https://github.com/sulthan06042007/Muttiple-capacity-with-infinite-capacity/assets/149347632/f806df84-f7c0-4dad-8853-ba6e6c213de0)
 
 ## Program
 ```
@@ -58,7 +58,7 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
-![probexp-5](https://github.com/sulthan06042007/Muttiple-capacity-with-infinite-capacity/assets/149347632/39a3b901-5aad-4aaf-af16-6cb6c78dadc7)
+![image](https://github.com/Sulthan06042007/Muttiple-capacity-with-infinite-capacity/assets/144980103/b91afa39-20b6-42f6-8579-0f5560548620)
 
 ## Result : 
 
