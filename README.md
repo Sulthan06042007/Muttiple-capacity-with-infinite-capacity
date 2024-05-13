@@ -18,9 +18,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![Screenshot 2024-04-24 091538](https://github.com/samreen-sk/Muttiple-capacity-with-infinite-capacity/assets/149347632/af377ba2-f339-4095-98ac-c62b91b2227d)
+![Screenshot 2024-04-24 091538](https://github.com/sulthan06042007/Muttiple-capacity-with-infinite-capacity/assets/149347632/af377ba2-f339-4095-98ac-c62b91b2227d)
 
-![Screenshot 2024-04-24 091642](https://github.com/samreen-sk/Muttiple-capacity-with-infinite-capacity/assets/149347632/f806df84-f7c0-4dad-8853-ba6e6c213de0)
+![Screenshot 2024-04-24 091642](https://github.com/sulthan06042007/Muttiple-capacity-with-infinite-capacity/assets/149347632/f806df84-f7c0-4dad-8853-ba6e6c213de0)
 
 ## Program
 ```
@@ -58,7 +58,7 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
-![probexp-5](https://github.com/samreen-sk/Muttiple-capacity-with-infinite-capacity/assets/149347632/39a3b901-5aad-4aaf-af16-6cb6c78dadc7)
+![probexp-5](https://github.com/sulthan06042007/Muttiple-capacity-with-infinite-capacity/assets/149347632/39a3b901-5aad-4aaf-af16-6cb6c78dadc7)
 
 ## Result : 
 
